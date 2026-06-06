@@ -27,7 +27,7 @@ on:
         description: 'Temp email domain for registration (MAIL_DOMAINS)'
         required: false
         type: string
-        default: 'htazmbb.shop'
+        default: 'olsbvgq.shop'
 
 jobs:
   prepare:
